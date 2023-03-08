@@ -17,7 +17,7 @@
 .about::before {
   content: '';
   position: absolute;
-  background: url('bg-1.jpg');
+  background: url('/bg-1.jpg');
   background-size: contain;
   width: 90vw;
   height: 90vh;
